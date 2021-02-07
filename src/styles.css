@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.inputContainer {
+  margin: 5px;
+}
+
+.item-name-container {
+  margin-right: 5px;
+  text-align: left;
+  cursor: pointer;
+}
+.item-conatiner {
+  display: flex;
+  padding: 0 150px;
+  justify-content: space-between;
+}
+
+.button {
+  padding: 0 5px;
+  margin-left: 5px;
+}
